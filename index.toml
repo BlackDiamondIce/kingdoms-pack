@@ -51,6 +51,11 @@ hash = "862032c74a95cbf73638bb5afed2de24e96f3665fe22c6c1b14f1203c46e437c"
 metafile = true
 
 [[files]]
+file = "mods/asynclogger.pw.toml"
+hash = "00164cb8596bbeffb1c05bc29df93655320a13db96caf656544a3e004998b8e6"
+metafile = true
+
+[[files]]
 file = "mods/automodpack.pw.toml"
 hash = "c0b5090dfcccb2450e9ea9938a75ef5a3cef166c24da962bb3a401ef679d4797"
 metafile = true
@@ -128,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/connectivity.pw.toml"
 hash = "81105a1a363873f3675a861d228abcf0f2a8356f1a17850c06f6d6c47e454634"
+metafile = true
+
+[[files]]
+file = "mods/console-spam-fix-reborn.pw.toml"
+hash = "15229ef55f6a6798b7d10cc2b3a92cf4c4abb15d97d409d9819923ff63fa8616"
 metafile = true
 
 [[files]]
@@ -398,6 +408,11 @@ metafile = true
 [[files]]
 file = "mods/justenoughbreeding.pw.toml"
 hash = "480364ee4530bebdb3c4538dd30458e084a061bc3c4b42fb23a2ed3de2e16302"
+metafile = true
+
+[[files]]
+file = "mods/krypton-fnp.pw.toml"
+hash = "5a96006110f4cdd98460a994373153909a5f0bf6cb68c5ac3a64adbda86eb302"
 metafile = true
 
 [[files]]
@@ -803,4 +818,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-cave-biomes.pw.toml"
 hash = "895288a3b51192f27cbf3e7e7ebfefd0d31e5660157864a4da40828d5c1dac05"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "b24c213b8727e80ca559670e97971c735c4dc4be1d1a4bd637c41450e7654c1e"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Console Spam Fix : Reborn"
+filename = "ConsoleSpamFixReborn-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iXA8b67S/versions/4PxR2f7j/ConsoleSpamFixReborn-2.1.0.jar"
+hash-format = "sha512"
+hash = "a9d9f47430d051ac22d4e4ca2c6147c698d5b24a3f3ce89afa19d15ad842253ad793a3df17902df83b4942e188076b78373b8943accea3e5e066fcced3715b06"
+
+[update]
+[update.modrinth]
+mod-id = "iXA8b67S"
+version = "4PxR2f7j"
