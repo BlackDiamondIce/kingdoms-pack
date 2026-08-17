@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-with-minecolonies.pw.toml"
-hash = "c51d90a80d221e9a83dacbae8cdeed6bd7b607e7dfc2e04e37e33be5a801843e"
+hash = "349385f73a9088979f59e109edbbadb4b0e6b510c6f73ddad7d438cd36ab498b"
 metafile = true
 
 [[files]]
@@ -88,11 +88,6 @@ metafile = true
 [[files]]
 file = "mods/chefs-delight-forge.pw.toml"
 hash = "7fce973e30d15d219b6dd64f609a5019dce268e1dfd63f4fc0d338587925c015"
-metafile = true
-
-[[files]]
-file = "mods/christmas-delight.pw.toml"
-hash = "1c0aa4ce97caaeeff518e87711dff2769402148d74467f75154bc0e9843e4979"
 metafile = true
 
 [[files]]
@@ -353,11 +348,6 @@ metafile = true
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
 hash = "2f1a381eb3906c0a950c9d8516e8ea9d228015a468d495445062a42abc241a34"
-metafile = true
-
-[[files]]
-file = "mods/lightmans-claim-chunk.pw.toml"
-hash = "a4113fc6300e319e64a7d974321902a171df86c984c9843de3d5ef996259a146"
 metafile = true
 
 [[files]]
