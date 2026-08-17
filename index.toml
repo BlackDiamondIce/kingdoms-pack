@@ -136,11 +136,6 @@ hash = "81105a1a363873f3675a861d228abcf0f2a8356f1a17850c06f6d6c47e454634"
 metafile = true
 
 [[files]]
-file = "mods/console-spam-fix-reborn.pw.toml"
-hash = "15229ef55f6a6798b7d10cc2b3a92cf4c4abb15d97d409d9819923ff63fa8616"
-metafile = true
-
-[[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
 hash = "ccaf234ff016baae7f4f7336b4a4972f1d509e3b3578c60726982cc3f78ade63"
 metafile = true
