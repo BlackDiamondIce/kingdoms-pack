@@ -1,0 +1,13 @@
+name = "Old Combat Mod"
+filename = "old_combat_mod-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4bd85d3b284a92aee5bf25d5b8814241bd54c326"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6949223
+project-id = 430735

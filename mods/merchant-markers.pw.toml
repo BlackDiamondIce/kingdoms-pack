@@ -1,0 +1,13 @@
+name = "Merchant Markers [Neo/Forge]"
+filename = "MerchantMarkers-1.21.1-neoforge-1.3.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "61aafc5686d9df55380264dda1bfb742008c43ff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6235851
+project-id = 549275
