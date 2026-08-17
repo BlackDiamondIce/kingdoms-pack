@@ -406,11 +406,6 @@ hash = "85b0bb55b80d196b879fe6755cd7cc509f6ecd5706bb25acd43826da5335dd57"
 metafile = true
 
 [[files]]
-file = "mods/merchant-markers.pw.toml"
-hash = "ab605f79d15c5e813e93d098d42657ad9fed2ddf8c0918b503a8391ad3251847"
-metafile = true
-
-[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "7f618fd1fa79ac4386d1864d521c6935d5d2c4951f6bb1fce29994dae7a1fd91"
 metafile = true
