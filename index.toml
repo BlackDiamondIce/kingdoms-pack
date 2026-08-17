@@ -91,11 +91,6 @@ hash = "7fce973e30d15d219b6dd64f609a5019dce268e1dfd63f4fc0d338587925c015"
 metafile = true
 
 [[files]]
-file = "mods/christmascolonies.pw.toml"
-hash = "322d5d2ff56f45e1bb09ccd43f23ad31d01beb86755e8d131699bbe79ea57c81"
-metafile = true
-
-[[files]]
 file = "mods/clumps.pw.toml"
 hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
 metafile = true
