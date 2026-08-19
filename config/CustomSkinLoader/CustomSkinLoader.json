@@ -1,0 +1,26 @@
+{
+  "version": "15.0",
+  "load_list": [
+    {
+      "name": "Mojang",
+      "type": "Mojang",
+      "check_skin": true,
+      "check_cape": true
+    },
+    {
+      "name": "ElyBy",
+      "type": "ElyBy",
+      "check_skin": true,
+      "check_cape": true
+    },
+    {
+      "name": "OptiFine",
+      "type": "OptiFine",
+      "check_skin": false,
+      "check_cape": true
+    }
+  ],
+  "enable": true,
+  "enable_skin": true,
+  "enable_cape": true
+}

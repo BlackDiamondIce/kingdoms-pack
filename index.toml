@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/CustomSkinLoader/CustomSkinLoader.json"
+hash = "dabf1bc1ce2a9dca03559cfaad6268ce6c5bd06c4cf5af277e38878a38a39a51"
+
+[[files]]
 file = "config/automodpack/automodpack.json"
 hash = "e678bf9b1d3fb3a32ce0c6fcc0ac142a401361d63311ea93096835781719603c"
 
