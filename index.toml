@@ -848,3 +848,7 @@ metafile = true
 file = "mods/zfastnoise.pw.toml"
 hash = "b24c213b8727e80ca559670e97971c735c4dc4be1d1a4bd637c41450e7654c1e"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "9d05283945e2cc3046ba26a03072d0e579241f8eaf315b21ecbde9ab880fd5c7"
