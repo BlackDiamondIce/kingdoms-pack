@@ -1,0 +1,7 @@
+{
+  "modpack_url": "https://raw.githubusercontent.com/BlackDiamondIce/kingdoms-pack/main/pack.toml",
+  "certificate_fingerprint": "c41e348748dfa5066e25897c7df32b73e53db5dce7f13ce89dd33765cfca68aa",
+  "auto_update": true,
+  "delete_old_mods": true,
+  "sync_configs": true
+}

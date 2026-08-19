@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/automodpack/automodpack.json"
+hash = "e678bf9b1d3fb3a32ce0c6fcc0ac142a401361d63311ea93096835781719603c"
+
+[[files]]
 file = "mods/actually-harvest.pw.toml"
 hash = "db89e5e72d13dfc4a92a290fb21347b0ec1029feb330cbbad8a48eabc05f12dd"
 metafile = true
