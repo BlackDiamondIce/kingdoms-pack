@@ -50,7 +50,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
@@ -174,8 +174,23 @@ hash = "2ea431a8a539cf776e004d5f55260cbf60fa5d8e1f0a7f3059298bf59510e1c4"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics.pw.toml"
+hash = "d438d05c61167c95de2b282bb3839a290f819f70c9d313c5e61177d69a29c704"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "a0e9ff95570cd9af3374ca8b44aa095447baf94e565f46ae99819d52a9b48dc1"
+metafile = true
+
+[[files]]
 file = "mods/create-liquid-fuel.pw.toml"
 hash = "ec65f48e74ac39be1d5a99e0bc74fd1013abd9efcf361e52043990ff5fba4c2b"
+metafile = true
+
+[[files]]
+file = "mods/create-radars.pw.toml"
+hash = "c24712eb82bb29d7ed210d7bc175baeb3b022c3b365b2dd0275c25f690e98f52"
 metafile = true
 
 [[files]]
@@ -191,6 +206,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+metafile = true
+
+[[files]]
+file = "mods/critters-and-companions.pw.toml"
+hash = "b065a8cb99a887abb2c434b84e3fa84f1e62cf500b1b9f50c86a4b48e4bdcc4f"
 metafile = true
 
 [[files]]
@@ -261,6 +281,11 @@ metafile = true
 [[files]]
 file = "mods/epic-villages.pw.toml"
 hash = "83627f9b562eac3fd97ef02cd1f04fe14b6a0c2ed416d2773930bf6f9c74dee1"
+metafile = true
+
+[[files]]
+file = "mods/fantasy_armor.pw.toml"
+hash = "afa210c4991668ea4b0158f7c95a895dac077925129c2fd569937cd15766f827"
 metafile = true
 
 [[files]]
@@ -340,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "68e15ffc71a84261e0dbbb317329788c21a7b9eb8060687dc8a51008cc3029fe"
+hash = "5a26489b734991c0511abfe43bf9143c935b8483d854a78fecd2e84993fb09cc"
 metafile = true
 
 [[files]]
@@ -456,6 +481,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "1a52a3b6f2bc7f3dfbc74ba9dce3394dd385fdc0a03c04872dfde9582c1a0bcb"
+metafile = true
+
+[[files]]
+file = "mods/living-things.pw.toml"
+hash = "2731180e4a718e4613f11268b93e34915b58faa1233eda439247f9a23f91eaf8"
 metafile = true
 
 [[files]]
@@ -644,8 +674,18 @@ hash = "1109c2b8db1be96e73329adda3def76575a10fba7532f604337fea52529814d6"
 metafile = true
 
 [[files]]
+file = "mods/rpl.pw.toml"
+hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
+metafile = true
+
+[[files]]
 file = "mods/ryoamiclights.pw.toml"
 hash = "907a7f3584909169937bdb0891304108f6a5291ae1fdce211b62e2e8c3e14e68"
+metafile = true
+
+[[files]]
+file = "mods/sable.pw.toml"
+hash = "a1fa121ed5d0207e4cdd3f545d043f68f9a4bb38dcb21278b968fad5e4cefe4a"
 metafile = true
 
 [[files]]
@@ -780,7 +820,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "492daa3391b6079b541685db276007b286774bab3b9881505127b7aef6b3f16c"
+hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
 
 [[files]]
@@ -851,6 +891,11 @@ metafile = true
 [[files]]
 file = "mods/zfastnoise.pw.toml"
 hash = "b24c213b8727e80ca559670e97971c735c4dc4be1d1a4bd637c41450e7654c1e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fantasy-3d-weapons-cit.pw.toml"
+hash = "4a1150bfb3a78e1a7ab3b00f5d0da27899a9703d4d85dd136e31a2a24a1276bf"
 metafile = true
 
 [[files]]
